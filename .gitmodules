@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CCP"]
+	path = CCP
+	url = https://github.com/cran/CCP
+	shallow = true
+	registered = true
+[submodule "EMT"]
+	path = EMT
+	url = https://github.com/cran/EMT
+	shallow = true
+	registered = true
+[submodule "RMThreshold"]
+	path = RMThreshold
+	url = https://github.com/cran/RMThreshold
+	shallow = true
+	registered = true
